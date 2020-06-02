@@ -1,0 +1,36 @@
+# logs
+logs
+*.log
+npm-debug.log*
+
+# runtime
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# os generated
+.DS_Store
+Thumbs.db
+.Spotlight-V100
+.Trashes
+.idea
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# archives
+*.dmg
+*.gz
+*.tar
+*.zip
+
+# etc
+coverage
+node_modules
+bower_components
+.grunt
+.sonarlint
+.env
